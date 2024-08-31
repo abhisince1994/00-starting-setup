@@ -1,0 +1,32 @@
+.contact-form {
+    width: 30rem;
+    max-width: 100%;
+    margin: 2rem auto;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    background-color: #f9f9f9;
+}
+
+.contact-form h1 {
+    text-align: center;
+    color: #00695c;
+}
+
+.contact-form .form-control input {
+    margin-bottom: 0.75rem;
+}
+
+.contact-form button {
+    width: 100%;
+    background-color: #00695c;
+    color: white;
+    border: none;
+    padding: 0.5rem;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.contact-form button:hover {
+    background-color: #004d40;
+}
